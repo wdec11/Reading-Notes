@@ -18,3 +18,4 @@ text editor has with your system.
 * 2 types of paths **relative** and **absolute** absolute will have slashes, relative will not.
 * In order to move around in the system we use a command called **cd** change directory
 * **file** command contains information about what type of file a file or directory is.
+* **ls -a** Lists the contents of a directory, including hidden files.
