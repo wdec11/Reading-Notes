@@ -1,8 +1,9 @@
 # What is a text editor? #
-A text editor is a piece of downloadable software that lets you edit text and usually specific text for websites. 
+
+A text editor is a piece of downloadable software that lets you edit text and usually specific text for websites.
 Here is a list of important things to look for in a text editor.
 
-1. code completion 
+1. code completion
 2. syntax highlighting
 3. a nice variety of themes (to reduce eye strain and fatigue)
 4. the ability to choose from a healthy selection ofextensions available when you need them
@@ -11,6 +12,7 @@ These are important factors to deciding what language you want to use whether it
 text editor has with your system.
 
 ## Basic Terminal usage ##
+
 * **Pwd** stands for Print Working Directory. It tells you what your current or present working directory is.
 
 * **ls** stands for list. It lets you know where you are in the terminal
