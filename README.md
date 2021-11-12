@@ -6,6 +6,8 @@ Hello this is a edit
 
 Growth Mindset is a way of thinking that promotes the development of ones skills through trial and error and hard work. Even when mistakes are made or the initial result isn't the best one, just the act of trying is a positive.
 
+[Growth](https://hbr.org/2016/01what-having-a-growth-mindset-actually-means)
+
 ![Rocky](https://www.visitphilly.com/wp-content/uploads/2018/02/RockyStatue_J_Fusco_01_2200x1237-1600x897.jpg)
 
 ### **My Reminders**
