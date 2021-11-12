@@ -15,3 +15,5 @@ Growth Mindset is a way of thinking that promotes the development of ones skills
 1. ~~Keep an opend mind and think outside the box~~
 2. practice makes perfect
 3. Always seek help when needed
+
+Back to [Homepage](https://wdec11.github.io/Reading-Notes/Homepage.md)

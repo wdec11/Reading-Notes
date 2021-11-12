@@ -15,4 +15,4 @@
 Git status enables you to view files in the directory that either are staged or need to be staged in order to commit. once the file is staged (git add .) it is then ready to be commited (git commit -m "comment" )
  The last step would be to push the updated or new file online. (git push origin main )
 
-
+Back to [Homepage](https://wdec11.github.io/Reading-Notes/Homepage.md)
