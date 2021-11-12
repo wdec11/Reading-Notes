@@ -17,3 +17,4 @@ Growth Mindset is a way of thinking that promotes the development of ones skills
 3. Always seek help when needed
 
 Back to [Homepage](https://wdec11.github.io/Reading-Notes/Homepage.md)
+# Top10List
