@@ -10,5 +10,3 @@ Inside curly brackets are declarations which take the form of the property and t
 * The colon separates the property from the value
 
 * You can find links to all the CSS property pages (along with other CSS features) listed on the MDN CSS reference.
-
-
