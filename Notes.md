@@ -6,7 +6,7 @@ Here is a list of important things to look for in a text editor.
 1. code completion
 2. syntax highlighting
 3. a nice variety of themes (to reduce eye strain and fatigue)
-4. the ability to choose from a healthy selection ofextensions available when you need them
+4. the ability to choose from a healthy selection of extensions available when you need them
 
 These are important factors to deciding what language you want to use whether its html, css or javascript and the compatibility the
 text editor has with your system.

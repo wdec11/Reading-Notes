@@ -15,3 +15,4 @@ And much more!
  * APIs are ready-made sets of code building blocks that allow a developer to implement programs that would otherwise be hard or impossible to implement.
 
  * * Two types of APIs are Browser and Third-Party API 
+
